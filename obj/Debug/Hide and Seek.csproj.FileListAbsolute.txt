@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Hide and Seek\obj\Debug\Hide and Seek.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Hide and Seek\obj\Debug\House_Application.Form1.resources
+C:\Users\User\source\repos\Hide and Seek\obj\Debug\Hide_and_Seek.Properties.Resources.resources
+C:\Users\User\source\repos\Hide and Seek\obj\Debug\Hide and Seek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Hide and Seek\obj\Debug\Hide and Seek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hide and Seek\bin\Debug\Hide and Seek.exe.config
+C:\Users\User\source\repos\Hide and Seek\bin\Debug\Hide and Seek.exe
+C:\Users\User\source\repos\Hide and Seek\bin\Debug\Hide and Seek.pdb
+C:\Users\User\source\repos\Hide and Seek\obj\Debug\Hide and Seek.exe
+C:\Users\User\source\repos\Hide and Seek\obj\Debug\Hide and Seek.pdb
